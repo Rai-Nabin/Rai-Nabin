@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nabin Rai</h1>
 <h3 align="center">A Machine Learning Engineer from Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rai-nabin&label=Profile%20views&color=0e75b6&style=flat" alt="rai-nabin" /> </p>
+- 🔭 I’m currently working on **Age & Gender Estimation using MobileViT model and Speech to Text model..**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rai-nabin" alt="rai-nabin" /></a> </p>
-
-- 🔭 I’m currently working on **Age & Gender Estimation**
-
-- 🌱 I’m currently learning **Transformers**
+- 🌱 I’m currently learning **Attention is all you need, FastApi and Docker.**
 
 - 📫 How to reach me **kulyangrai10@gmail.com**
 
