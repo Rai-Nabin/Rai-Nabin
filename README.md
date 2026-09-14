@@ -1,6 +1,6 @@
 # Hi, I'm Nabin Rai 👋
 
-**Senior AI & Computer Vision Engineer** specializing in **agentic AI systems**, **LLM evaluation & observability**, and **edge-optimized computer vision**.
+**AI & Computer Vision Engineer** specializing in **agentic AI systems**, **LLM evaluation & observability**, and **edge-optimized computer vision**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-rai) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kulyangrai10@gmail.com)
 
